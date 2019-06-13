@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1,AR: OSN Movies First HD
-http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/63316.m3u8
-#EXTINF:-1,AR: OSN Movies First HD 2
-http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/131156.m3u8
+#EXTINF:-1,Brazzers_adult-tv
+http://s1.tvdibil.club/adaa7de7a00ed44c084a93e531a9360c/99999910.m3u8
+#EXTINF:-1,Brazzers_shalun-tv
+http://50.7.127.60:8081/brazzers_eu/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg4cb96d76f05670a0a3ccd4c0a4525d08T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,Brazzers_erotix-tv
+http://50.7.127.60:8081/brazzers_eu/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg994ba80fb1cce6b9e4f9305aad07fa3fT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,Brazzers TV Europe
+http://79.133.100.5:999/udp/239.191.254.170:15285
