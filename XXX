@@ -1,16 +1,23 @@
-#EXTM3U#EXTINF:-1,XxX: SEXTREME
-http://lista.digitalgroup.me:80/6004/1234/853
-#EXTINF:-1,XxX: SEXTREME HD
-http://lista.digitalgroup.me:80/6004/1234/20824
-#EXTINF:-1,XxX: SEXY HOT HD
-http://lista.digitalgroup.me:80/6004/1234/20825
-#EXTINF:-1,XxX: SEXY HOT HD+
-http://lista.digitalgroup.me:80/6004/1234/37773
-#EXTINF:-1,XxX: VENUS
-http://lista.digitalgroup.me:80/6004/1234/18088
-#EXTINF:-1,XxX: VENUS HD
-http://lista.digitalgroup.me:80/6004/1234/18089
-#EXTINF:-1,XxX: PLAYBOY TV
-http://lista.digitalgroup.me:80/6004/1234/871
-#EXTINF:-1,XxX: PLAYBOY TV HD
-http://lista.digitalgroup.me:80/6004/1234/20820
+#EXTM3U
+
+#EXTINF:-1,O-la-la
+http://109.171.66.42:81/udp/239.54.6.71:1234
+#EXTINF:-1,Русская ночь
+http://109.171.66.42:81/udp/239.54.6.159:1234
+#EXTINF:-1,AST TV XXX 1 18+
+https://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:-1,AST TV XXX 2 18+
+https://www.ast.tv/stream/2/cellular.m3u8
+#EXTINF:-1,Dorcel TV HD
+http://brazilgroup.xyz:25461/live/Geraldo/Geraldo1/3973.ts
+#EXTINF:-1,Jasmin HD 18+
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,Jasmin TV (18+)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,O-la-la (UDP) (18+)
+http://37.205.94.97:81/udp/239.54.6.71:1234
+
+#EXTINF:-1 tvch-id="275" group-title="ДЛЯ ВЗРОСЛЫХ",РУССКАЯ НОЧЬ 18+
+http://109.248.68.91:3371/udp/239.195.2.3:1234
+#EXTINF:-1 tvch-id="276" group-title="ДЛЯ ВЗРОСЛЫХ",BRAZZERS TV 18+
+http://109.248.79.19:4022/udp/239.195.2.4:1234
