@@ -22,3 +22,130 @@ http://109.248.68.91:3371/udp/239.195.2.3:1234
 #EXTINF:-1 tvch-id="276" group-title="ДЛЯ ВЗРОСЛЫХ",BRAZZERS TV 18+
 http://109.248.79.19:4022/udp/239.195.2.4:1234
 
+#EXTM3U
+#EXTINF:-1,GE1-ABS-CBN
+http://103.95.148.174:8000/play/a00e
+#EXTINF:-1,GE1-ABS-CBN Sports
+http://103.95.148.174:8000/play/a00j
+#EXTINF:-1,GE1-Aksyon TV
+http://103.95.148.174:8000/play/a00i
+#EXTINF:-1,GE1-CInema One
+http://103.95.148.174:8000/play/a00l
+#EXTINF:-1,GE1-Cinemo
+http://103.95.148.174:8000/play/a00v
+#EXTINF:-1,GE1-Cinemo
+http://103.95.148.174:8000/play/a00d
+#EXTINF:-1,GE1-DZMM
+http://103.95.148.174:8000/play/a00k
+#EXTINF:-1,GE1-ETC
+http://103.95.148.174:8000/play/a00b
+#EXTINF:-1,GE1-FoxFilo
+http://103.95.148.174:8000/play/a00c
+#EXTINF:-1,GE1-GMA
+http://103.95.148.174:8000/play/a00f
+#EXTINF:-1,GE1-GMA News
+http://103.95.148.174:8000/play/a00h
+#EXTINF:-1,GE1-IBC
+http://103.95.148.174:8000/play/a00z
+#EXTINF:-1,GE1-JackTV
+http://103.95.148.174:8000/play/a00w
+#EXTINF:-1,GE1-MyX
+http://103.95.148.174:8000/play/a00n
+#EXTINF:-1,GE1-PBO
+http://103.95.148.174:8000/play/a00y
+#EXTINF:-1,GE1-PTV
+http://103.95.148.174:8000/play/a00x
+#EXTINF:-1,GE1-RJ Tv
+http://103.95.148.174:8000/play/a00o
+#EXTINF:-1,GE1-TV5
+http://103.95.148.174:8000/play/a00g
+#EXTINF:-1,GE2-CCTN https://iptv.live
+http://103.95.148.174:8000/play/a00r
+#EXTINF:-1,GE2-DZRH
+http://103.95.148.174:8000/play/a004
+#EXTINF:-1,GE2-GNN
+http://103.95.148.174:8000/play/a00s
+#EXTINF:-1,GE2-GPC
+http://103.95.148.174:8000/play/a001
+#EXTINF:-1,GE2-INC Tv
+http://103.95.148.174:8000/play/a006
+#EXTINF:-1,GE2-Jeepney Tv
+http://103.95.148.174:8000/play/a008
+#EXTINF:-1,GE2-MTV
+http://103.95.148.174:8000/play/a002
+#EXTINF:-1,GE2-Net25
+http://103.95.148.174:8000/play/a005
+#EXTINF:-1,GE2-PinoyExtreme
+http://103.95.148.174:8000/play/a00p
+#EXTINF:-1,GE2-SariSari
+http://103.95.148.174:8000/play/a003
+#EXTINF:-1,GE2-Viva Tv
+http://103.95.148.174:8000/play/a009
+#EXTINF:-1,Hero Channel
+http://103.95.148.174:8000/play/a01c
+#EXTINF:-1,Jeepney TV
+http://103.95.148.174:8000/play/a01e
+#EXTINF:-1,Knowledge Channel
+http://103.95.148.174:8000/play/a01j
+#EXTINF:-1,Lifestyle Cable
+http://103.95.148.174:8000/play/a01g
+#EXTINF:-1,Lifestyle Network Global
+http://103.95.148.174:8000/play/a010
+#EXTINF:-1,Liga
+http://103.95.148.174:8000/play/a01b
+#EXTINF:-1,Liga HD
+http://103.95.148.174:8000/play/a01o
+#EXTINF:-1,MCPC 12
+http://103.95.148.174:8000/play/a01l
+#EXTINF:-1,MCPC 14
+http://103.95.148.174:8000/play/a01m
+#EXTINF:-1,MYX Cable
+http://103.95.148.174:8000/play/a01i
+#EXTINF:-1,MYX US
+http://103.95.148.174:8000/play/a014
+#EXTINF:-1,O Shopping
+http://103.95.148.174:8000/play/a01n
+#EXTINF:-1,Program 001
+http://103.95.148.174:8000/play/a01t
+#EXTINF:-1,Program 002
+http://103.95.148.174:8000/play/a01u
+#EXTINF:-1,SPORTS+ACTION
+http://103.95.148.174:8000/play/a01q
+#EXTINF:-1,Sports+Action
+http://103.95.148.174:8000/play/a01d
+#EXTINF:-1,Sports+Action Global
+http://103.95.148.174:8000/play/a013
+#EXTINF:-1,TFC NA
+http://103.95.148.174:8000/play/a00u
+#EXTINF:-1,TFC-LOCAL-PUSH
+http://103.95.148.174:8000/play/a021
+#EXTINF:-1,TLC Philippines HD
+http://103.95.148.174:8000/play/a01y
+#EXTINF:-1,ABS-CBN
+http://103.95.148.174:8000/play/a01p
+#EXTINF:-1,ABS-CBN Cable
+http://103.95.148.174:8000/play/a01a
+#EXTINF:-1,ANC Cable
+http://103.95.148.174:8000/play/a01f
+#EXTINF:-1,ANC Global
+http://103.95.148.174:8000/play/a011
+#EXTINF:-1,CINEMO
+http://103.95.148.174:8000/play/a01r
+#EXTINF:-1,Cinema 1 https://iptv.live
+http://103.95.148.174:8000/play/a01h
+#EXTINF:-1,Cinema One Global
+http://103.95.148.174:8000/play/a012
+#EXTINF:-1,Cinemo Global
+http://103.95.148.174:8000/play/a015
+#EXTINF:-1,DWRR Global
+http://103.95.148.174:8000/play/a018
+#EXTINF:-1,DZMM Global
+http://103.95.148.174:8000/play/a017
+#EXTINF:-1,DZMM Teleradyo
+http://103.95.148.174:8000/play/a01k
+#EXTINF:-1,DZMM Teleradyo Global
+http://103.95.148.174:8000/play/a016
+#EXTINF:-1,Discovery Philippines HD
+http://103.95.148.174:8000/play/a01x
+#EXTINF:-1,AP1HD
+http://103.95.148.174:8000/play/a022
